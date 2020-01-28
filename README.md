@@ -22,6 +22,8 @@ Run inside jupyter notebook after installing required libraries.
 
 Classification report that contains accuracy per class / attack category available on request. 
 
+Tested on MIT Satori interactive mode
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
